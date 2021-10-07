@@ -2,7 +2,7 @@
 
 If you find it helpful, hit that ⭐ button.
 
-[![Preview](dsa.jpg)]()
+[![Preview](dsa.jpg)](https://raw.githubusercontent.com/afkniladri/Data-Structures-and-Algorithms-Essentials/main/cover.jpg)
 
 # [Data Structures & Algorithms Essentials (2021)](https://www.udemy.com/course/cpp-data-structures-algorithms-prateek-narang/)
 
