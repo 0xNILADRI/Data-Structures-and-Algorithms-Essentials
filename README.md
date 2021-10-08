@@ -45,7 +45,7 @@ Created by [Prateek Narang](https://www.udemy.com/user/prateek-narang-4/) and [C
 - [Stacks]()
 - [Queues]()
 - [Binary Tree]()
-- [Bnary Search Tree]()
+- [Binary Search Tree]()
 - [Heaps / Priority Queue]()
 - [Hashing]()
 - [Trie Data Structure]()
