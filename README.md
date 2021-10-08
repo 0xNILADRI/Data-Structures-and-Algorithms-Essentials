@@ -29,7 +29,7 @@ Created by [Prateek Narang](https://www.udemy.com/user/prateek-narang-4/) and [C
 
 ## Contents
 
-- [Arrays]()
+- [Arrays](https://github.com/afkniladri/Data-Structures-and-Algorithms-Essentials/tree/main/01.%20Arrays)
 - [Basic Sorting ALgorithms]()
 - [Character Arrays / Strings]()
 - [2D Arrays]()
