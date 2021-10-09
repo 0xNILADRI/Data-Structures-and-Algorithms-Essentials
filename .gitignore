@@ -34,4 +34,4 @@
 # files without extentions
 *
 !/**/
-!*.*
+!*.cpp
