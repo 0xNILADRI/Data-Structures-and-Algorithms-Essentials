@@ -4,7 +4,7 @@ using namespace std;
 int main(){
     char ch;
     int alphaCount=0, spaceCount=0, digitCount=0;
-    ch = cin.get(); // will record the first enter and won't interfere with our original string
+    ch = cin.get(); 
     while(ch!='\n'){
         if((ch>='a' and ch<='z') or (ch>='A' and ch<='Z')){
             alphaCount++;
