@@ -4,11 +4,11 @@ If you find it helpful, hit that ⭐ button.
 
 ![Preview](https://github.com/afkniladri/Data-Structures-and-Algorithms-Essentials/blob/main/cover.jpg)
 
-# [Data Structures & Algorithms Essentials (2021)](https://www.udemy.com/course/cpp-data-structures-algorithms-prateek-narang/)
+# [Data Structures & Algorithms Essentials using C++ (2023)](https://www.udemy.com/course/cpp-data-structures-algorithms-prateek-narang/)
 
 Master the core concepts & internal workings of data structures, build algorithms & solve problems using C++
 
-4.6 ⭐ (679 ratings) 3,989 students
+4.4 ⭐ (3276 ratings) 18,326 students
 
 Created by [Prateek Narang](https://www.udemy.com/user/prateek-narang-4/) and [Coding Minutes](https://www.udemy.com/user/coding-minutes/).
 
@@ -29,12 +29,12 @@ Created by [Prateek Narang](https://www.udemy.com/user/prateek-narang-4/) and [C
 
 ## Contents
 
-- [Arrays](https://github.com/afkniladri/Data-Structures-and-Algorithms-Essentials/tree/main/01.%20Arrays)
-- [Basic Sorting ALgorithms]()
-- [Character Arrays / Strings]()
-- [2D Arrays]()
-- [Pointers & Dynamic Memory]()
-- [Vector Data Structure]()
+- [Arrays](https://github.com/0xNILADRI/Data-Structures-and-Algorithms-Essentials/tree/main/01.%20Arrays)
+- [Basic Sorting ALgorithms](https://github.com/0xNILADRI/Data-Structures-and-Algorithms-Essentials/tree/main/02.%20Basic%20Sorting%20Algorithms)
+- [Character Arrays / Strings](https://github.com/0xNILADRI/Data-Structures-and-Algorithms-Essentials/tree/main/03.%20Character%20Arrays_Strings)
+- [2D Arrays](https://github.com/0xNILADRI/Data-Structures-and-Algorithms-Essentials/tree/main/04.%202D%20Array)
+- [Pointers & Dynamic Memory](https://github.com/0xNILADRI/Data-Structures-and-Algorithms-Essentials/tree/main/05.%20Pointer%20and%20Dynamic%20Memory)
+- [Vector Data Structure](https://github.com/0xNILADRI/Data-Structures-and-Algorithms-Essentials/tree/main/06.%20Vector%20Data%20Structure)
 - [Bit Manipulation]()
 - [Recursion Basics]()
 - [Divide & Conquer]()
