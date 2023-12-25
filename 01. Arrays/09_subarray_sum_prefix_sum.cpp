@@ -27,8 +27,9 @@ int main(){
     int n = sizeof(arr)/sizeof(int);
 
     // print array 
+    cout<<"Array Elements : "<<endl;
     for(int x: arr){
-        cout<<x<<endl;
+        cout<<x<< " ";
     }
     
     cout<<endl<<"Largest Subarray Sum : "<<subarraySum(arr,n)<<endl;;
