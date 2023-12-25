@@ -22,7 +22,7 @@ int main(){
 
     // print array 
     for(int x: arr){
-        cout<<x<<endl;
+        cout<<"Array Elements : "<<x<< ",";
     }
     
     cout<<endl<<"Largest Subarray Sum : "<<subarraySum(arr,n)<<endl;;
